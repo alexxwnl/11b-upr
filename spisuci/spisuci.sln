@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "spisuci", "spisuci.csproj", "{04F9BE16-0ACE-480E-95DA-BD5016E5C92B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListManipulation", "..\ListManipulation\ListManipulation.csproj", "{41B1B900-68F5-4DF7-AED1-1CDFA052A7DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04F9BE16-0ACE-480E-95DA-BD5016E5C92B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04F9BE16-0ACE-480E-95DA-BD5016E5C92B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04F9BE16-0ACE-480E-95DA-BD5016E5C92B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04F9BE16-0ACE-480E-95DA-BD5016E5C92B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41B1B900-68F5-4DF7-AED1-1CDFA052A7DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41B1B900-68F5-4DF7-AED1-1CDFA052A7DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41B1B900-68F5-4DF7-AED1-1CDFA052A7DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41B1B900-68F5-4DF7-AED1-1CDFA052A7DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69ABE484-47BB-4176-8767-C47E5AAEFBBF}
+	EndGlobalSection
+EndGlobal
